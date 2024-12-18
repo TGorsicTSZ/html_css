@@ -1,0 +1,11 @@
+ol
+{
+    list-style-type: decimal-leading-zero;
+    list-style-image: url("Images/ikona.jpg");
+    list-style-position: outside;
+    background: green;
+}
+ol li
+{
+    background-color: gray;
+}

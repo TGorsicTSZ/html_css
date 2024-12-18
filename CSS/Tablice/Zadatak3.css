@@ -1,0 +1,9 @@
+table, td
+{
+    border: 1px solid black;
+}
+tr:hover
+{
+    background-color: lightgray;
+    height: 150px;
+}
