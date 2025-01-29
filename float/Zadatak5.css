@@ -1,0 +1,24 @@
+div
+{
+    background-color: lightblue;
+    border: 1px solid black;
+    position: relative;
+}
+.prvi
+{
+    width: 48%;
+    height: 200px;
+    float: left;
+}
+.drugi
+{
+    float: right;
+    width: 48%;
+    height: 200px;
+}
+.treci
+{
+    clear: both;
+    width: 100%;
+    height: 100px;
+}
